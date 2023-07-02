@@ -6,9 +6,11 @@ I created this website to generate a random password generator to protect my use
 ## Installation
 Created by me using VS Code and starter code provided by the UT Full-stack web development team!
 
-## link of the site 
-link of the side: 
+## link of the site:
+link of the site: https://starkoiii.github.io/pword-generator/
 
+## link to site repository:
+https://github.com/Starkoiii/pword-generator
 ## Screenshot of the site
 ![Alt text](<screencapture-file-Users-tuncho-bootcamp-password-generator-password-generator-02-Challenge-Develop-index-html-2023-07-02-11_47_16 (1).png>)
 
@@ -31,7 +33,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Usage
-A page that allows for visitors to generate a password to protect their assets
+A page that allows for visitors to generate a password to protect their assets!
 
 ## How to contribute
 Willing to accept any constructive criticism to improve my future projects or current projects improvements in functionality or style!
